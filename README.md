@@ -92,12 +92,18 @@ A smart security project exploring motion-aware and mask-aware screen control fo
 
 ---
 
-## 🏆 Achievements & Research
+## 🏆 Research & Publications
 
-- 🥇 **Best Paper Award** — IC IDSSD'25 for research on an AI-powered robotic vacuum system.
-- 🚀 **INNOVERSITE-25 Finalist** — Top 5 among 25,000+ participants.
-- 📄 **Research Publication** — *![Scholar](https://scholar.google.com/citations?hl=en&user=PGD_ZVYAAAAJ)*.
-- 💡 Experience participating in technical hackathons and building solutions under time constraints.
+My research contributions span AI-powered robotics, computer vision, IoT-based safety systems, and machine learning.
+
+- 🤖 **CleanNav: Deep Learning and Reinforcement Strategies for Smart Robot Exploration** (2026)
+- 🦺 **Fall Detection Using IoT-Based Smart Waist Belt** (2025)
+- 🔐 **Dynamic Screen Tab Control System with Real-Time Face Mask Detection for Enhanced Security and Customer Service in Banks: A Positive Pressure** (2025)
+- 🛣️ **Road Surface Anomaly Recognition: A Comprehensive Study on Pothole Detection Using Machine Learning Algorithms** (2025)
+- 🧹 **AutoSweep: Smart Robotic Vacuum Cleaner** (2025)
+
+📚 **[View my Google Scholar profile and publications](https://scholar.google.com/citations?hl=en&user=PGD_ZVYAAAAJ)**
+
 
 ---
 
