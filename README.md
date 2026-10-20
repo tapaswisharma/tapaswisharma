@@ -73,23 +73,6 @@ A synchronization platform designed to keep Google Sheets and PostgreSQL data in
 - Used Supabase PostgreSQL and Drizzle ORM.
 
 **Tech:** Next.js · TypeScript · PostgreSQL · Google Sheets API
-
-### 3. Eye-Gaze Controlled Virtual Keyboard
-
-An accessibility-focused project exploring how computer vision and machine learning can enable hands-free computer interaction.
-
-- Built a virtual keyboard controlled through eye movements.
-- Experimented with KNN, CNN, and MobileNet-V3 approaches.
-- Explored applications of AI in assistive technology.
-
-**Tech:** Python · TensorFlow · OpenCV · Machine Learning
-
-### 4. Smart Banking Screen Control
-
-A smart security project exploring motion-aware and mask-aware screen control for banking environments.
-
-**Tech:** Python · Arduino · Computer Vision
-
 ---
 
 ## 🏆 Research & Publications
