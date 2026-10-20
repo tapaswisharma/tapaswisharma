@@ -1,16 +1,124 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building scalable backend systems and real-time data pipelines at BNP Paribas, and experimenting with sensor-driven automation projects.<br><br>👯 I’m looking to collaborate on  <br>Impact-driven tech projects — especially in AI for accessibility, clean UI/UX for dev tools, and real-time data systems.<br><br>🤝 I’m looking for help with  <br>Improving deployment pipelines and optimizing low-latency backend APIs.<br><br>🌱 I’m currently learning  <br>Advanced system design, cloud-native architecture, and deep diving into product thinking for tech-driven businesses.<br><br>💬 Ask me about  <br>Hackathons, AI for social impact, backend engineering, or how I built an eye-controlled keyboard!<br><br>⚡ Fun fact  <br>I once built an AI-powered keyboard you can control with just your eyes — turns out, your gaze can be more powerful than a mouse click!<br>
+# Hey, I'm Tapaswi 👋
 
+### Software Engineer | Backend Engineering · Distributed Systems · AI
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tapaswi_sharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tapaswi-vemuru/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TapaswiVemuruSharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tapaswivemurusharma@gmail.com) 
+I build backend systems, work with data-intensive applications, and explore how AI can solve real-world problems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tapaswisharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tapaswisharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tapaswisharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently working as a **Graduate Software Analyst at BNP Paribas**, building and maintaining backend services using Java, Spring Boot, and SQL. Outside work, I enjoy experimenting with event-driven architectures, AI-powered applications, and ideas that make technology more accessible.
+
+I believe good engineering is not just about making things work — it's about making them reliable, scalable, and genuinely useful.
+
+- 💼 **Currently working on:** Backend services, REST APIs, data workflows, and production reliability.
+- ⚙️ **Exploring:** Distributed systems, Apache Kafka, system design, and GenAI applications.
+- 🧠 **Building:** Event-driven systems, developer tools, and AI-powered projects.
+- 🏆 **Recognition:** Best Paper Award at IC IDSSD'25 · INNOVERSITE-25 Finalist.
+- 🎓 **Education:** B.Tech in Computer Science, VIT Chennai (2021–2025).
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Distributed Systems**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Testing**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Also explored:** React, Next.js, Node.js, TensorFlow, OpenCV, and machine learning.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. CleanNav — Event-Driven Robotics Platform
+
+A backend system inspired by intelligent robotic exploration, simulating events from multiple robots through Apache Kafka.
+
+- Designed an event-driven architecture using Spring Boot and Kafka.
+- Used three Kafka topics for telemetry, object detection, and operational events.
+- Implemented event deduplication, retries, and dead-letter handling.
+- Built REST APIs for robot status, telemetry, events, and object tracking.
+
+**Tech:** Java · Spring Boot · Apache Kafka · REST APIs
+
+### 2. DBSynchro — Database Synchronization Platform
+
+A synchronization platform designed to keep Google Sheets and PostgreSQL data in sync.
+
+- Explored bidirectional data synchronization.
+- Integrated Google Sheets API and OAuth 2.0.
+- Used Supabase PostgreSQL and Drizzle ORM.
+
+**Tech:** Next.js · TypeScript · PostgreSQL · Google Sheets API
+
+### 3. Eye-Gaze Controlled Virtual Keyboard
+
+An accessibility-focused project exploring how computer vision and machine learning can enable hands-free computer interaction.
+
+- Built a virtual keyboard controlled through eye movements.
+- Experimented with KNN, CNN, and MobileNet-V3 approaches.
+- Explored applications of AI in assistive technology.
+
+**Tech:** Python · TensorFlow · OpenCV · Machine Learning
+
+### 4. Smart Banking Screen Control
+
+A smart security project exploring motion-aware and mask-aware screen control for banking environments.
+
+**Tech:** Python · Arduino · Computer Vision
+
+---
+
+## 🏆 Achievements & Research
+
+- 🥇 **Best Paper Award** — IC IDSSD'25 for research on an AI-powered robotic vacuum system.
+- 🚀 **INNOVERSITE-25 Finalist** — Top 5 among 25,000+ participants.
+- 📄 **Research Publication** — *Text Similarity Detection using Feature Fusion*, AIP Conference Proceedings, 2025.
+- 💡 Experience participating in technical hackathons and building solutions under time constraints.
+
+---
+
+## 🎯 What I'm Exploring Next
+
+- Generative AI and LLM-powered applications
+- Reliable, event-driven backend architectures
+- System design and distributed systems
+- AI-powered developer tools and automation
+- Accessible technology with meaningful real-world impact
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing backend engineering, system design, AI, developer tools, and interesting problems worth solving.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tapaswi-vemuru)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tapaswisharma)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/tapaswivemurusharma/)
+
+---
+
+*Building, learning, and shipping — one problem at a time.* ✨
