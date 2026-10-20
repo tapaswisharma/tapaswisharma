@@ -6,7 +6,7 @@ I build backend systems, work with data-intensive applications, and explore how 
 
 Currently working as a **Graduate Software Analyst at BNP Paribas**, building and maintaining backend services using Java, Spring Boot, and SQL. Outside work, I enjoy experimenting with event-driven architectures, AI-powered applications, and ideas that make technology more accessible.
 
-I believe good engineering is not just about making things work — it's about making them reliable, scalable, and genuinely useful.
+I believe good engineering is not just about making things work , it's about making them reliable, scalable, and genuinely useful.
 
 - 💼 **Currently working on:** Backend services, REST APIs, data workflows, and production reliability.
 - ⚙️ **Exploring:** Distributed systems, Apache Kafka, system design, and GenAI applications.
