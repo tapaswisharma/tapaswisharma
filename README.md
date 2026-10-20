@@ -96,7 +96,7 @@ A smart security project exploring motion-aware and mask-aware screen control fo
 
 - 🥇 **Best Paper Award** — IC IDSSD'25 for research on an AI-powered robotic vacuum system.
 - 🚀 **INNOVERSITE-25 Finalist** — Top 5 among 25,000+ participants.
-- 📄 **Research Publication** — *Text Similarity Detection using Feature Fusion*, AIP Conference Proceedings, 2025.
+- 📄 **Research Publication** — *![Scholar](https://scholar.google.com/citations?hl=en&user=PGD_ZVYAAAAJ)*.
 - 💡 Experience participating in technical hackathons and building solutions under time constraints.
 
 ---
